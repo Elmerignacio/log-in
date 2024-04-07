@@ -87,3 +87,12 @@ display: flex;
   margin-top: 230px;
   margin-left: 350px;
 }
+
+@media (max-width: 768px) {
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+}
+
+@media (min-width: 1024px) {
+}

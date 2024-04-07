@@ -179,6 +179,15 @@ color: #5AB297;
   margin-top: 40px;
   margin-left: 60px;
 }
+@media (max-width: 768px) {
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+}
+
+@media (min-width: 1024px) {
+}
+
 
 
 
